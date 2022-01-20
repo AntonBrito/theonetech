@@ -3,5 +3,5 @@
 </svelte:head>
 
 <div>
-	<h1>Welcome to my Blog</h1>
+	<h1>Welcome to my Tech Blog</h1>
 </div>
