@@ -1,5 +1,7 @@
-<script>
-	import Header from '../components/Header.svelte';
-</script>
+<svelte:head>
+	<title>Tech Blog</title>
+</svelte:head>
 
-<Header />
+<div>
+	<h1>Welcome to my Blog</h1>
+</div>
