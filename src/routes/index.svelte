@@ -1,1 +1,5 @@
-<h1>OneBrito-tech</h1>
+<script>
+	import Header from '../components/Header.svelte';
+</script>
+
+<Header />
