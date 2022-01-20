@@ -1,6 +1,6 @@
 <header>
 	<div>
-		<h1>Brito's Blog</h1>
+		<h1>Tech Blog</h1>
 	</div>
 </header>
 
@@ -11,5 +11,9 @@
 		font-size: 2em;
 		display: grid;
 		grid-template-columns: 90% 10%;
+	}
+
+	h1 {
+		color: white;
 	}
 </style>
